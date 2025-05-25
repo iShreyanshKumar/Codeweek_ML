@@ -15,7 +15,7 @@ The notebook is organized as follows:
 9. **Final Results and Conclusion**
 10. **Bonus Level**
 
-## Approach Summary
+#### Approach Summary
 
 - **Data Understanding**: To understand patterns in data and identify anonymous features.
 - **Preprocessing**: Encoding categorical variables, handling nulls, normalization and identify missing values.
@@ -36,11 +36,11 @@ The notebook is organized as follows:
 4. **Level 3: Judgement and Memory**
 5. **Level 4: The Architect’s Trial – Multi-Agent Evolution**
 
-## Approach Summary
+#### Approach Summary
 
 - **Level 1**: Constructed a langraph node called chatbot using Gemini API and added a calculator tool to it, also visualised its graph.
 - **Level 2**: Added Tavily Search and Open Weather to the chatbot using APIs.
 - **Level 3**: Added checkpointer to it so that it would remember previous interactions.
 - **Level 4**: Implemented multi-agent support using supervisor, also added some dummy agents like hotel booking and flight booking and alse separated the previously made tools into new different agents ensuring all can collaborate smoothly by implementing routing logic between agents through supervisor.
 
-####The project report expands onto these topics in detail and the notebooks also contain the links to the sources from where some code for the task 2 was brought to.
+*The project report expands onto these topics in detail and the notebooks also contain the links to the sources from where any code for the task was brought to.*
